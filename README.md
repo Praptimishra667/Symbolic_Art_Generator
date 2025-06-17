@@ -1,4 +1,4 @@
-# Symbolic_Art_Genrerator
+# Symbolic_Art_Generator
 Transform your images into unique symbolic artworks — choose from Emoji, DNA, Music Notes, Braille, or ASCII styles. Crafted by Prapti Mishra.
 
 
